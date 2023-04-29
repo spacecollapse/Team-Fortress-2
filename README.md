@@ -6,7 +6,7 @@
 
 FedoraWare чит на тф2 
 
-Скачать можно по этой ссылке - https://github.com/defoxxx/Team-Fortress-2/releases/download/fed/FedoraWare.zip
+Скачать можно по этой ссылке - https://github.com/spacecollapse/Team-Fortress-2/releases/download/fed/FedoraWare.zip
 
 # Важно! ПРОЧИТАЙ
 Чит обновился и чтобы корректно работал конфиг вам нужно сделать следующее:
